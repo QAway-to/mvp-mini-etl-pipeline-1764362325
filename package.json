@@ -1,0 +1,16 @@
+{
+  "name": "mvp-mini-etl-pipeline-1764362325",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "description": "MVP for: Нужен масштабируемый авто парсер, сдля парсинга информации о товарах и услугах более чем с 50 000 са..."
+}
